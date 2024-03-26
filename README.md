@@ -1,1 +1,2 @@
-# ml3-project2
+# MLIII. Project II
+Recommender Systems
