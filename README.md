@@ -70,4 +70,4 @@ This project focuses on applying **unsupervised learning techniques** to build a
 
 Unsupervised learning provides a robust framework for analyzing user behavior and developing effective recommender systems. Memory-based methods like collaborative filtering are suitable for small datasets, while model-based methods (e.g., SVD and MF) offer scalability and better performance. By leveraging these techniques, this project demonstrates how to enhance personalization and user satisfaction.
 
-For further details or contributions, please contact Mencía Sánchez or Sergio Cuenca
+For further details or contributions, please contact **Mencía Sánchez** or **Sergio Cuenca**.
